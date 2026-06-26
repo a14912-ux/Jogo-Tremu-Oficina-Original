@@ -35,3 +35,18 @@ h1 {
   max-width: 90%;
   margin-top: 20px;
 }
+
+.cell.certa {
+  background-color: green;
+  color: white;
+}
+
+.cell.posicao {
+  background-color: orange;
+  color: white;
+}
+
+.cell.errada {
+  background-color: gray;
+  color: white;
+}
